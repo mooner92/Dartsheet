@@ -74,5 +74,4 @@ void main() {
   num_2 = 2.0;
   num_2 = null;
   num_2 ??= 3.0;
-  ////
 }
