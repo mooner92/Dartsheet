@@ -1,6 +1,6 @@
 void main() async {
   await getVersionName().then((value)=>{
-    print(value);
+    print(value)
   });
   print('end process');
 }
